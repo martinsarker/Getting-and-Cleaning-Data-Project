@@ -8,7 +8,7 @@
 ### Running the script
 
 - Download this script
-- Download the [data] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+- Download the [data] (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 - Extract files from archive
 - Modify the path variable in the script so that your current directory will be "UCI HAR Dataset", containing all the data needed for the analysis
 - Run the script in R
