@@ -6,7 +6,7 @@
 - Nothing much (At least I tried ...)
 - Read data of all activities for "train" and "test" datasets
 - Merges "train" and "test" datasets in a very creepy way - simply by rbind for each activity
-- Comutes mean and standard deviation for each activity in all merged datasets
+- Computes mean and standard deviation for each activity in all merged datasets
 - Create a character matrix 2X18 with labels of means and standard deviations of values from all measured activities
 - Saves this matrix as a table into a file called "tidy_dataset.txt"
 
